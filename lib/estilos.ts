@@ -1,0 +1,3 @@
+export const campo = "w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-brand-texto placeholder:text-slate-400 focus:border-brand-green focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-green focus-visible:ring-offset-2";
+
+export const botaoPrimario = "inline-flex items-center justify-center gap-2 rounded-lg bg-brand-green px-5 py-3 font-semibold text-white transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-green focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50";
